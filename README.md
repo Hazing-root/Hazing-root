@@ -1,11 +1,11 @@
 <h1 align="center">Hello i am Hazing</h1>
-<h3 align="center">I'm 13 years old and i am learning to become an AppSec Engineer</h3>
+<h3 align="center">I'm 13 years old and i am learning to become a Machine Learning engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hazing-root&label=Profile%20views&color=0e75b6&style=flat" alt="hazing-root" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hazing-root" alt="hazing-root" /></a> </p>
 
--  I’m currently learning **Python,Cybersecurity**
+-  I’m currently learning **Python,Machine Learning**
 
 -  How to reach me **Discord: hazing_root1**
 
